@@ -20,6 +20,10 @@ struct ContentView: View {
                     .foregroundStyle(.white)
                     .bold()
                     .font(.largeTitle)
+                Text("Jie Ning")
+                    .foregroundStyle(.white)
+                    .bold()
+                    .font(.largeTitle)
             }
             
         }
