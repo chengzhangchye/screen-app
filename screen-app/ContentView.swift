@@ -15,6 +15,9 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.white)
                 .bold()
+            Text("Xu Biao")
+                .foregroundStyle(.white)
+                .bold()
         }
         .ignoresSafeArea()
     }
